@@ -16,7 +16,6 @@
 - 💼 **Analista de Suporte N2** na **IXC Soft**, trabalhando com a plataforma IXC Provedor (sistema de gestão para provedores de internet)
 - 🔍 No dia a dia: diagnóstico de bugs, escalonamentos, integrações bancárias, automações e documentação técnica
 - 🌱 Estudando **desenvolvimento web, mobile e bancos de dados** (incluindo Neo4j e modelagem de grafos)
-- 🎮 Nas horas vagas, curto criar joguinhos em **Godot**
 - 📫 Contato: **gabrielrosario786@gmail.com**
 
 ---
@@ -69,15 +68,7 @@
   <a href="https://github.com/GabrielUnocc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Coloque aqui o link do seu LinkedIn quando quiser:
-  <a href="https://linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/gabriel-ros%C3%A1rio-1a1677300/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  -->
-</p>
-
----
-
-<p align="center">
-  <i>"Codar é resolver problema. O resto é sintaxe."</i> 🚀
 </p>
